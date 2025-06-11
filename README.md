@@ -11,7 +11,7 @@ Software engineer with a systems mindset and a foundation in large-scale product
 ## 🧰 Tech I Use Regularly
 
 `JavaScript` · `TypeScript` · `React` · `GraphQL` · `Node.js`  
-`Jest` · `Cypress` · `Selenium` · `AWS` · `Docker` · `Jenkins`
+`AWS` · `Cypress` · `Webpack` · `Docker` · `Jenkins`
 
 ## 🔗 Notable Projects
 
@@ -21,5 +21,5 @@ Software engineer with a systems mindset and a foundation in large-scale product
 
 ## 🤝 Connect
 
-📫 [LinkedIn](https://www.linkedin.com/in/toddalex) · 🌐 [toddalexander.dev](#) (add when ready)
+📫 [LinkedIn](https://www.linkedin.com/in/toddalex) 
 

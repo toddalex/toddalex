@@ -1,4 +1,4 @@
-# Hello World, I'm Todd Alexander
+# Hello world, I'm Todd Alexander
 
 Software engineer with a systems mindset and a foundation in large-scale production and creative collaboration. From delivering nightly content to millions at Conan to architecting streaming interfaces for Paramount+, I've built experiences that scale — across platforms, teams, and audiences.
 

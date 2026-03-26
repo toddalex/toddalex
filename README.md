@@ -13,9 +13,8 @@ Software engineer with a systems mindset and a foundation in large-scale product
 `JavaScript` · `TypeScript` · `React` · `GraphQL` · `Node.js` · `AWS` · `Cypress` · `Webpack` · `Docker` · `Jenkins`
 
 ## 🚀 Notable Projects
-
-- **Epochsy** — Chrome extension for instant epoch timestamp conversion. Compact popup, zero permissions, fully offline, ~11KB vanilla JS bundle. Published on the Chrome Web Store. [View Repo »](https://github.com/toddalex/epochsy)
 - **Resurrector** — Lightweight Chrome extension for URL redirection with wildcard and regex support. Built for MV3 compliance. [View Repo »](https://github.com/toddalex/resurrector)
+- **Epochsy** — Chrome extension for instant epoch timestamp conversion. Compact popup, zero permissions, fully offline, ~11KB vanilla JS bundle. Published on the Chrome Web Store. [View Repo »](https://github.com/toddalex/epochsy)
 - **Paramount+ Multiview** — Architected and led development of live multistream UI and dev infrastructure.
 - **Comedy Living Room** — Built the digital backbone for LA's underground stand-up scene.
 

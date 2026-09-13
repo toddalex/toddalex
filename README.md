@@ -15,7 +15,7 @@ Software engineer with a systems mindset and a foundation in large-scale product
 
 ## 🚀 Notable Projects
 - **Paramount+ Multiview** — Architected and led development of live multistream UI and dev infrastructure.
-- **Cats Lock** — Sandboxed macOS menu-bar app that locks the keyboard so a cat can't type on it, live on the Mac App Store. Features Smart Detect, opt-in on-device auto-locking that engages when it senses cat-style typing. Solo-built in SwiftUI/AppKit from architecture through App Store release and ongoing iteration. Rated 4.9 on the Mac App Store, regularly charts in the Top 200 Utilities, and featured in Engadget, MacRumors & 9to5Mac. [View on the App Store »](https://apps.apple.com/app/cats-lock/id6763495406)
+- **Cats Lock** — a playful macOS app for locking the keyboard. Features Smart Detect: on-device auto-locking that engages when it senses cat-style typing. Solo-built in SwiftUI/AppKit and available on the Mac App Store. Rated 4.9 and featured in Engadget, MacRumors & 9to5Mac. [View on the App Store »](https://apps.apple.com/app/cats-lock/id6763495406)
 - **Resurrector** — Lightweight Chrome extension for URL redirection with wildcard and regex support. Built for MV3 compliance. [View Repo »](https://github.com/toddalex/resurrector)
 - **Comedy Living Room** — Built the digital backbone for LA's underground stand-up scene.
 
